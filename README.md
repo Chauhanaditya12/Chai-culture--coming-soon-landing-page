@@ -1,46 +1,49 @@
-# Chai Culture - Coming Soon Landing Page
+# ☕ Chai Culture — Coming Soon Landing Page
 
-This is a premium, responsive "Coming Soon" landing page for a fictional Indian tea brand, **Chai Culture**. It was built with React, Vite, and Tailwind CSS.
+A premium, responsive **“Coming Soon” landing page** for **Chai Culture**, a fictional Indian chai brand inspired by royal traditions and heritage.  
+The project focuses on elegant design, clean code, and a refined user experience across devices.
+
+---
+
+## ✨ Features
+
+- Royal, heritage-inspired UI with warm cream, brown, and gold tones  
+- Minimal and elegant layout highlighting brand identity  
+- “Launching Soon” announcement section  
+- Fully responsive design (mobile, tablet, desktop)  
+- Built with modern frontend tools for performance and scalability  
+
+---
+
+## 🛠 Tech Stack
+
+- **React** – Component-based UI development  
+- **Vite** – Fast build tool and development server  
+- **Tailwind CSS** – Utility-first styling for clean and consistent design  
+
+---
+
+## 📸 Preview
+
+*(Add a screenshot or live link here if available)*
+
+---
 
 ## 🚀 Getting Started
 
-Follow these instructions to get the project up and running on your local machine.
+Follow these steps to run the project locally.
 
 ### Prerequisites
 
-You need to have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed on your computer.
+Make sure you have the following installed:
 
-### Installation
+- [Node.js](https://nodejs.org/) (v18 or above recommended)
+- npm (comes with Node.js)
 
-1.  **Clone the repository or download the source code.**
+---
 
-2.  **Navigate into the project directory:**
-    ```sh
-    cd chai-culture-landing
-    ```
+## 📦 Installation
 
-3.  **Install NPM packages:**
-    This command will install all the necessary dependencies listed in `package.json`.
-    ```sh
-    npm install
-    ```
-
-### Running the Development Server
-
-Once the dependencies are installed, you can start the local development server.
-
-```sh
-npm run dev
-```
-
-This will start the Vite development server, and you can view the landing page by opening your browser and navigating to `http://localhost:5173` (the port may vary, check your terminal output).
-
-## deployment
-
-To create a production-ready build, run:
-
-```sh
-npm run build
-```
-
-This command generates a `dist` folder in the project root, which contains the optimized and minified static files. You can deploy this `dist` folder to any static hosting service like Netlify, Vercel, or GitHub Pages.
+1. **Clone the repository**
+   ```sh
+   git clone https://github.com/Chauhanaditya12/Chai-culture--coming-soon-landing-page.git
